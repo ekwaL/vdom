@@ -1,0 +1,8 @@
+# VSCode settings
+.vscode
+
+# NPM packages
+node_modules
+
+# Build
+dist
